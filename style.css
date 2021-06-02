@@ -1,0 +1,12 @@
+h1 {
+    color: #1abc9c;
+}
+.rem {
+    margin-left: 5px;
+    background-color: white;
+    color: red;
+    /*border: none;*/
+    border: 1px solid grey;
+    border-radius: 50%;
+    cursor: pointer;
+}
